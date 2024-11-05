@@ -22,12 +22,22 @@ This comprehensive workshop covers a detailed code walkthrough of building an AI
 ## Setup
 
 
-### Jupyter Notebook
+### Running Jupyter Notebooks with Google Collab
 These guides use Jupyter notebooks. Jupyter notebooks are convenient for learning how to work with LLM systems because oftentimes things can go wrong (unexpected output, API down, etc) and going through guides in an interactive environment is a great way to better understand them.
 
 This and other tutorials are perhaps most conveniently run in a Jupyter notebook in Google Colab. Click on the links above to open the notebooks in Google Collab (you will need a Google account). 
 
 See [here](https://jupyter.org/install) for instructions on how to install.
+
+## Running Jupyter Notebooks locally
+
+Use `venv` to create a virtual environment and activate it.
+
+```
+python3 -m venv agent-builder
+source agent-builder/bin/activate
+pip3 install -r requirements.txt
+```
 
 ## API Keys
 
