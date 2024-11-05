@@ -44,3 +44,4 @@ We use the following API Keys in the Jupyter notebooks. Head over to the links g
 ## Resources
 
 - [Langgraph](https://langchain-ai.github.io/langgraph/tutorials/)
+- [Langraph Academy](https://academy.langchain.com/courses/intro-to-langgraph)
