@@ -4,20 +4,28 @@ This comprehensive workshop covers a detailed code walkthrough of building an AI
 
 ## Contents
 
+- [Introduction to AI Agents](https://docs.google.com/presentation/d/e/2PACX-1vTuA0bGX_K8p85S5EC4rp2YzbN0sSVR9LCoJJzfVJ2R50KIQFvUO3L7VVqaiUZ8ebzf5aYjdsX7vD1m/pub?start=false&loop=false&delayms=3000)
+
+- [Introduction to LangChain](https://docs.google.com/presentation/d/e/2PACX-1vRNgHl8wJgPu9Aeb6xYvWmI0aNSJ7CAcuO3NttCPDBWSzkSs_mKizcEVqQZhAkgcc5sxSqziO052nNk/pub?start=false&loop=false&delayms=3000)
+
 - <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/02_Working_with_LLMs.ipynb">
-  <div style="margin-right: 4px">Introduction to LangChain </div>
+  <div style="margin-right: 4px">Introduction to LangChain: Code walkthrough </div>
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+- [Introduction to LangGraph](https://docs.google.com/presentation/d/e/2PACX-1vRlRsjDFRRg2JVjaw9DojzZv9qzRziSvMYdado2oWQ7sVk2cr7r3kH2Yk22BFXrh7Rt5aFb8U4ZGKN3/pub?start=false&loop=false&delayms=3000)
+
 - <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/05_Build_your_own_agent.ipynb">
-    <div style="margin-right: 4px">Introduction to LangGraph </div>
+    <div style="margin-right: 4px">Introduction to LangGraph: Code walkthrough </div>
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 - <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/06_Research_assistant.ipynb">
-    <div style="margin-right: 4px">Building an AI Research Assistant</div>
+    <div style="margin-right: 4px">Building an AI Research Assistant: Code walkthrough</div>
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- [LangChain Trace Example](https://smith.langchain.com/public/2524f9e0-6d2e-4fea-a775-ce8c5288c2b2/r)
 
 ## Setup
 
@@ -27,10 +35,9 @@ These guides use Jupyter notebooks. Jupyter notebooks are convenient for learnin
 
 This and other tutorials are perhaps most conveniently run in a Jupyter notebook in Google Colab. Click on the links above to open the notebooks in Google Collab (you will need a Google account). 
 
-See [here](https://jupyter.org/install) for instructions on how to install.
-
 ## Running Jupyter Notebooks locally
 
+See [here](https://jupyter.org/install) for instructions on how to install Jupyter locally.
 Use `venv` to create a virtual environment and activate it.
 
 ```
