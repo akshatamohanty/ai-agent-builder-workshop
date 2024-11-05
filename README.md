@@ -13,3 +13,13 @@ This comprehensive workshop covers a detailed code walkthrough of building an AI
     <div style="margin-right: 4px">Introduction to LangGraph </div>
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/06_Research_assistant.ipynb">
+    <div style="margin-right: 4px">Building an AI Research Assistant</div>
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+## Resources
+
+- [Langgraph](https://langchain-ai.github.io/langgraph/tutorials/)
