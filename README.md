@@ -8,19 +8,19 @@ This comprehensive workshop covers a detailed code walkthrough of building an AI
 
 - [Introduction to LangChain](https://docs.google.com/presentation/d/e/2PACX-1vRNgHl8wJgPu9Aeb6xYvWmI0aNSJ7CAcuO3NttCPDBWSzkSs_mKizcEVqQZhAkgcc5sxSqziO052nNk/pub?start=false&loop=false&delayms=3000)
 
-- <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/02_Working_with_LLMs.ipynb">
+- <a style="display: flex; flex-direction: row" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/02_Working_with_LLMs.ipynb">
   <div style="margin-right: 4px">Introduction to LangChain: Code walkthrough </div>
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 - [Introduction to LangGraph](https://docs.google.com/presentation/d/e/2PACX-1vRlRsjDFRRg2JVjaw9DojzZv9qzRziSvMYdado2oWQ7sVk2cr7r3kH2Yk22BFXrh7Rt5aFb8U4ZGKN3/pub?start=false&loop=false&delayms=3000)
 
-- <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/05_Build_your_own_agent.ipynb">
+- <a style="display: flex; flex-direction: row" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/05_Build_your_own_agent.ipynb">
     <div style="margin-right: 4px">Introduction to LangGraph: Code walkthrough </div>
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- <a style="display: flex;" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/06_Research_assistant.ipynb">
+- <a style="display: flex; flex-direction: row" target="_blank" href="https://colab.research.google.com/github/akshatamohanty/ai-agent-builder-workshop/blob/main/06_Research_assistant.ipynb">
     <div style="margin-right: 4px">Building an AI Research Assistant: Code walkthrough</div>
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
